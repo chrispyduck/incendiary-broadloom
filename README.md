@@ -21,9 +21,9 @@ For example, running the command above might generate the following:
 
 ```
 Found 4 executives:
-Sean Thorne <sean@peopledatalabs.com> (Co-Founder and Chief Executive Officer)
+Sean Thorne <*masked*@peopledatalabs.com> (Co-Founder and Chief Executive Officer)
 Alex Bahouth <None> (Chief Technology Officer)
-Henry Nevue <henry@peopledatalabs.com> (Co-Founder and Chief Technology Officer)
+Henry Nevue <*masked*@peopledatalabs.com> (Co-Founder and Chief Technology Officer)
 Varun V <None> (Chief Product Officer)
 ** WARNING ** Dry run. Printing first email to stdout and exiting.
 Dear Sean Thorne,
