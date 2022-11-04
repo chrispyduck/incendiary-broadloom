@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "incendiary-broadloom"
+version = "0.1.0"
+description = "An automated executive email carpet bomber"
+authors = ["Chris Carlson <chrispyduck@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "incendiary_broadloom"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+peopledatalabs = "^1.1.1"
+argparse-dataclass = "^0.2.1"
+requests = "^2.28.1"
+htmldom = "^2.0"
+bs4 = "^0.0.1"
+lxml = "^4.9.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
